@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8" ?> 
+<!-- Comentarios   -->
+<Parametros>
+	<Servidor>SALA406\SQLSERVER</Servidor>
+	<BaseDatos>BDEmpresaXX</BaseDatos>
+	<Usuario>JuanArenas</Usuario>
+	<Clave>1234</Clave>
+	<SeguridadIntegrada>Si</SeguridadIntegrada>
+</Parametros>

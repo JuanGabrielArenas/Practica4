@@ -1,0 +1,12 @@
+C:\Users\jefer\Desktop\ProgSw\00. PRACTICAS\Practica4\libreriasComunes\libParametros\libParametros\bin\Debug\libParametros.dll
+C:\Users\jefer\Desktop\ProgSw\00. PRACTICAS\Practica4\libreriasComunes\libParametros\libParametros\bin\Debug\libParametros.pdb
+C:\Users\jefer\Desktop\ProgSw\00. PRACTICAS\Practica4\libreriasComunes\libParametros\libParametros\obj\Debug\libParametros.csproj.AssemblyReference.cache
+C:\Users\jefer\Desktop\ProgSw\00. PRACTICAS\Practica4\libreriasComunes\libParametros\libParametros\obj\Debug\libParametros.csproj.CoreCompileInputs.cache
+C:\Users\jefer\Desktop\ProgSw\00. PRACTICAS\Practica4\libreriasComunes\libParametros\libParametros\obj\Debug\libParametros.dll
+C:\Users\jefer\Desktop\ProgSw\00. PRACTICAS\Practica4\libreriasComunes\libParametros\libParametros\obj\Debug\libParametros.pdb
+B:\Users\juare\Documents\prgsw\Practica4\Practica4\libreriasComunes\libParametros\libParametros\bin\Debug\libParametros.dll
+B:\Users\juare\Documents\prgsw\Practica4\Practica4\libreriasComunes\libParametros\libParametros\bin\Debug\libParametros.pdb
+B:\Users\juare\Documents\prgsw\Practica4\Practica4\libreriasComunes\libParametros\libParametros\obj\Debug\libParametros.csproj.AssemblyReference.cache
+B:\Users\juare\Documents\prgsw\Practica4\Practica4\libreriasComunes\libParametros\libParametros\obj\Debug\libParametros.csproj.CoreCompileInputs.cache
+B:\Users\juare\Documents\prgsw\Practica4\Practica4\libreriasComunes\libParametros\libParametros\obj\Debug\libParametros.dll
+B:\Users\juare\Documents\prgsw\Practica4\Practica4\libreriasComunes\libParametros\libParametros\obj\Debug\libParametros.pdb
