@@ -31,7 +31,8 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <ItemGroup>
-    <Reference Include="libConexionBD">
+    <Reference Include="libConexionBD, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
       <HintPath>..\..\libConexionBD\libConexionBD\bin\Debug\libConexionBD.dll</HintPath>
     </Reference>
     <Reference Include="System" />

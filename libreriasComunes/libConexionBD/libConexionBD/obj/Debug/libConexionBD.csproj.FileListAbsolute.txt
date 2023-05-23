@@ -16,3 +16,12 @@ B:\Users\juare\Documents\prgsw\Practica4\Practica4\libreriasComunes\libConexionB
 B:\Users\juare\Documents\prgsw\Practica4\Practica4\libreriasComunes\libConexionBD\libConexionBD\obj\Debug\libConexionBD.csproj.CopyComplete
 B:\Users\juare\Documents\prgsw\Practica4\Practica4\libreriasComunes\libConexionBD\libConexionBD\obj\Debug\libConexionBD.dll
 B:\Users\juare\Documents\prgsw\Practica4\Practica4\libreriasComunes\libConexionBD\libConexionBD\obj\Debug\libConexionBD.pdb
+B:\Users\juare\Documents\prgsw\Practica4\libreriasComunes\libConexionBD\libConexionBD\bin\Debug\libConexionBD.dll
+B:\Users\juare\Documents\prgsw\Practica4\libreriasComunes\libConexionBD\libConexionBD\bin\Debug\libConexionBD.pdb
+B:\Users\juare\Documents\prgsw\Practica4\libreriasComunes\libConexionBD\libConexionBD\bin\Debug\libParametros.dll
+B:\Users\juare\Documents\prgsw\Practica4\libreriasComunes\libConexionBD\libConexionBD\bin\Debug\libParametros.pdb
+B:\Users\juare\Documents\prgsw\Practica4\libreriasComunes\libConexionBD\libConexionBD\obj\Debug\libConexionBD.csproj.AssemblyReference.cache
+B:\Users\juare\Documents\prgsw\Practica4\libreriasComunes\libConexionBD\libConexionBD\obj\Debug\libConexionBD.csproj.CoreCompileInputs.cache
+B:\Users\juare\Documents\prgsw\Practica4\libreriasComunes\libConexionBD\libConexionBD\obj\Debug\libConexionBD.csproj.CopyComplete
+B:\Users\juare\Documents\prgsw\Practica4\libreriasComunes\libConexionBD\libConexionBD\obj\Debug\libConexionBD.dll
+B:\Users\juare\Documents\prgsw\Practica4\libreriasComunes\libConexionBD\libConexionBD\obj\Debug\libConexionBD.pdb

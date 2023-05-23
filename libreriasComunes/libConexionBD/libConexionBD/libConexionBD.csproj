@@ -31,7 +31,8 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <ItemGroup>
-    <Reference Include="libParametros">
+    <Reference Include="libParametros, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
       <HintPath>..\..\libParametros\libParametros\bin\Debug\libParametros.dll</HintPath>
     </Reference>
     <Reference Include="System" />

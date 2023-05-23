@@ -19,3 +19,14 @@ B:\Users\juare\Documents\prgsw\Practica4\Practica4\libreriasComunes\libLlenarCom
 B:\Users\juare\Documents\prgsw\Practica4\Practica4\libreriasComunes\libLlenarCombos\libLlenarCombos\obj\Debug\libLlenarCombos.csproj.CopyComplete
 B:\Users\juare\Documents\prgsw\Practica4\Practica4\libreriasComunes\libLlenarCombos\libLlenarCombos\obj\Debug\libLlenarCombos.dll
 B:\Users\juare\Documents\prgsw\Practica4\Practica4\libreriasComunes\libLlenarCombos\libLlenarCombos\obj\Debug\libLlenarCombos.pdb
+B:\Users\juare\Documents\prgsw\Practica4\libreriasComunes\libLlenarCombos\libLlenarCombos\bin\Debug\libLlenarCombos.dll
+B:\Users\juare\Documents\prgsw\Practica4\libreriasComunes\libLlenarCombos\libLlenarCombos\bin\Debug\libLlenarCombos.pdb
+B:\Users\juare\Documents\prgsw\Practica4\libreriasComunes\libLlenarCombos\libLlenarCombos\bin\Debug\libConexionBD.dll
+B:\Users\juare\Documents\prgsw\Practica4\libreriasComunes\libLlenarCombos\libLlenarCombos\bin\Debug\libParametros.dll
+B:\Users\juare\Documents\prgsw\Practica4\libreriasComunes\libLlenarCombos\libLlenarCombos\bin\Debug\libConexionBD.pdb
+B:\Users\juare\Documents\prgsw\Practica4\libreriasComunes\libLlenarCombos\libLlenarCombos\bin\Debug\libParametros.pdb
+B:\Users\juare\Documents\prgsw\Practica4\libreriasComunes\libLlenarCombos\libLlenarCombos\obj\Debug\libLlenarCombos.csproj.AssemblyReference.cache
+B:\Users\juare\Documents\prgsw\Practica4\libreriasComunes\libLlenarCombos\libLlenarCombos\obj\Debug\libLlenarCombos.csproj.CoreCompileInputs.cache
+B:\Users\juare\Documents\prgsw\Practica4\libreriasComunes\libLlenarCombos\libLlenarCombos\obj\Debug\libLlenarCombos.csproj.CopyComplete
+B:\Users\juare\Documents\prgsw\Practica4\libreriasComunes\libLlenarCombos\libLlenarCombos\obj\Debug\libLlenarCombos.dll
+B:\Users\juare\Documents\prgsw\Practica4\libreriasComunes\libLlenarCombos\libLlenarCombos\obj\Debug\libLlenarCombos.pdb

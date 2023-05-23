@@ -20,3 +20,14 @@ B:\Users\juare\Documents\prgsw\Practica4\Practica4\libreriasComunes\libLlenarCBL
 B:\Users\juare\Documents\prgsw\Practica4\Practica4\libreriasComunes\libLlenarCBList\libLlenarCBList\obj\Debug\libLlenarCBList.csproj.CopyComplete
 B:\Users\juare\Documents\prgsw\Practica4\Practica4\libreriasComunes\libLlenarCBList\libLlenarCBList\obj\Debug\libLlenarCBList.dll
 B:\Users\juare\Documents\prgsw\Practica4\Practica4\libreriasComunes\libLlenarCBList\libLlenarCBList\obj\Debug\libLlenarCBList.pdb
+B:\Users\juare\Documents\prgsw\Practica4\libreriasComunes\libLlenarCBList\libLlenarCBList\bin\Debug\libLlenarCBList.dll
+B:\Users\juare\Documents\prgsw\Practica4\libreriasComunes\libLlenarCBList\libLlenarCBList\bin\Debug\libLlenarCBList.pdb
+B:\Users\juare\Documents\prgsw\Practica4\libreriasComunes\libLlenarCBList\libLlenarCBList\bin\Debug\libConexionBD.dll
+B:\Users\juare\Documents\prgsw\Practica4\libreriasComunes\libLlenarCBList\libLlenarCBList\bin\Debug\libParametros.dll
+B:\Users\juare\Documents\prgsw\Practica4\libreriasComunes\libLlenarCBList\libLlenarCBList\bin\Debug\libConexionBD.pdb
+B:\Users\juare\Documents\prgsw\Practica4\libreriasComunes\libLlenarCBList\libLlenarCBList\bin\Debug\libParametros.pdb
+B:\Users\juare\Documents\prgsw\Practica4\libreriasComunes\libLlenarCBList\libLlenarCBList\obj\Debug\libLlenarCBList.csproj.AssemblyReference.cache
+B:\Users\juare\Documents\prgsw\Practica4\libreriasComunes\libLlenarCBList\libLlenarCBList\obj\Debug\libLlenarCBList.csproj.CoreCompileInputs.cache
+B:\Users\juare\Documents\prgsw\Practica4\libreriasComunes\libLlenarCBList\libLlenarCBList\obj\Debug\libLlenarCBList.csproj.CopyComplete
+B:\Users\juare\Documents\prgsw\Practica4\libreriasComunes\libLlenarCBList\libLlenarCBList\obj\Debug\libLlenarCBList.dll
+B:\Users\juare\Documents\prgsw\Practica4\libreriasComunes\libLlenarCBList\libLlenarCBList\obj\Debug\libLlenarCBList.pdb
